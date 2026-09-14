@@ -1,6 +1,6 @@
 <div align="center">
 
-# FITTLE Back-end Repository 🏋️
+# FITTLE Back-end Repository (2026 SKU 해커톤 최우수상 수상🏆️) 🏋️
 ---
 "카메라 하나로 내 운동을 분석하고, **AI 맞춤 운동처방**을 받는 서비스"
 </br>
