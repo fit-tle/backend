@@ -113,6 +113,7 @@
 <img src="https://github.com/catomat0.png" width="200"/><br/>
 <b>김동국</b><br/>
 <sub>역할</sub>
+<sub>소셜 로그인, 인프라 세팅, 운동 시설 지도 도메인</sub>
 </td>
 <td align="center" style="width: 150px; padding: 10px;">
 <img src="https://github.com/rkdehdrbs7885-oss.png" width="200"/><br/>
