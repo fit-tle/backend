@@ -106,8 +106,12 @@
 <tr>
 <td align="center" style="width: 150px; padding: 10px;">
 <img src="https://github.com/hyeonkangkimm.png" width="200"/><br/>
-<b>김현강</b><br/>
-<sub>역할</sub>
+<b><a href="https://github.com/hyeonkangkimm">김현강</a></b><br/>
+<sub>
+실시간 운동 자세 분석 및 운동별 자세·횟수 판정 로직<br/>
+체력 측정 모드 , 개별 운동 모드<br/>
+AI 맞춤 운동 추천 , RAG 기반 임베딩·유사도 검색<br/>
+</sub>
 </td>
 <td align="center" style="width: 150px; padding: 10px;">
 <img src="https://github.com/catomat0.png" width="200"/><br/>
