@@ -126,8 +126,8 @@ AI 맞춤 운동 추천 , RAG 기반 임베딩·유사도 검색<br/>
 <img src="https://github.com/rkdehdrbs7885-oss.png" width="200"/><br/>
 <b><a href="https://github.com/rkdehdrbs7885-oss">강동균</a></b><br/>
 <sub>
-개인 캘린더<br/>
-그룹 캘린더<br/>
+개인 캘린더 월별 운동 기록 및 달성률 조회<br/>
+그룹 캘린더 월별 운동 기록<br/>
 <br/>
 </sub>
 </td>
