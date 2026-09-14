@@ -7,7 +7,11 @@
 **FITTLE**의 백엔드 저장소입니다.
 </br>
 
-![Intro](image/atmd_landing.png)
+![Intro](image/atmd_land.png)
+![Intro](image/atmd_intro.png)
+![Intro](image/atmd_howto.png)
+![Intro](image/atmd_readme.png)
+
 
 <br/>
 
