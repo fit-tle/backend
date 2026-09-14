@@ -115,13 +115,21 @@ AI 맞춤 운동 추천 , RAG 기반 임베딩·유사도 검색<br/>
 </td>
 <td align="center" style="width: 150px; padding: 10px;">
 <img src="https://github.com/catomat0.png" width="200"/><br/>
-<b>김동국</b><br/>
-<sub>소셜 로그인, 인프라 세팅, 운동시설-지도 담당</sub>
+<b><a href="https://github.com/catomat0">김동국</a></b><br/>
+<sub>
+소셜 로그인, 인프라 세팅<br/>
+운동시설-지도 <br/>
+그룹 초대 기능 <br/>
+</sub>
 </td>
 <td align="center" style="width: 150px; padding: 10px;">
 <img src="https://github.com/rkdehdrbs7885-oss.png" width="200"/><br/>
-<b>강동균</b><br/>
-<sub>역할</sub>
+<b><a href="https://github.com/rkdehdrbs7885-oss">강동균</a></b><br/>
+<sub>
+개인 캘린더<br/>
+그룹 캘린더<br/>
+<br/>
+</sub>
 </td>
 </tr>
 </table>
